@@ -1,3 +1,2 @@
 ### Olá! Me chamo Gabriel Nathan ☕
-
-![Fraga GithHub stats](https:github-readme-stats.vercel.app/api?username=devfraga&show_icons=true&theme=dracula)
+https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
