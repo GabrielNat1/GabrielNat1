@@ -1,5 +1,5 @@
 ###  ☕ Olá! Me chamo Gabriel Nathan ☕
-[![Gab GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielNat1&theme=blue-green)
+![Gab GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielNat1&theme=blue-green)
 
 ### Linguagens 🚀
 <div style="display: inline_block">
