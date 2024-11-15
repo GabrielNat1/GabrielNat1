@@ -1,4 +1,4 @@
-### Olá! Me chamo Gabriel Nathan ☕
+### <img src="https://img.icons8.com/?size=256w&id=d7iNUYuimOnF&format=png"> Olá! Me chamo Gabriel Nathan ☕
 [![Gab GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielNat1&theme=blue-green)
 
 ### Linguagens 🚀
