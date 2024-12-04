@@ -60,7 +60,23 @@
 
 ---
 
-### 🏆 Trophy 🏆
-![trophy](https://github-profile-trophy.vercel.app/?username=GabrielNat1&theme=darkhub)
+<h3 align="center">🏆 Trophy 🏆</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GabrielNat1&theme=darkhub" alt="GitHub Trophy" />
+</p>
+
+<br>
+
+---
+
+
+![snake gif](https://github.com/GabrielNat1/GabrielNat1/blob/output/github-snake-dark.svg)
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=GabrielNat1&label=Profile%20Views&color=6&icon=0"/>
+</div>
+
+
+<br>
 
 ---
