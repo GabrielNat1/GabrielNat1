@@ -54,6 +54,9 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabrielNat1&theme=react" alt="Stats" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GabrielNat1&theme=react&utcOffset=3" alt="Productive Time" />
 </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielNat1&theme=react&hide_border=true" alt="GabrielNat1's GitHub Stats" />
+</p>
 
 ---
 
