@@ -66,8 +66,8 @@
 </p>
 
 <br>
+<br>
 
----
 
 
 ![snake gif](https://github.com/GabrielNat1/GabrielNat1/blob/output/github-snake-dark.svg)
