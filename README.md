@@ -1,6 +1,4 @@
-☕ **</** welcome! **:D >** ☕  
-<br>
-**Dev Back End** 
+
 
 ---
 
@@ -71,9 +69,7 @@
 
 ![snake gif](https://github.com/GabrielNat1/GabrielNat1/blob/output/github-snake-dark.svg)
 
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=GabrielNat1&label=Profile%20Views&color=6&icon=0"/>
-</div>
+
 
 
 <br>
