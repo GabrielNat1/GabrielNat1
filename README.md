@@ -1,19 +1,14 @@
-
-
 ---
-
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=GabrielNat1&theme=black&show_icons=true&hide_border=false&count_private=true" alt="GabrielNat1's GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=GabrielNat1&theme=react&show_icons=true&hide_border=false&count_private=true" alt="GabrielNat1's GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielNat1&theme=black&show_icons=true&hide_border=false&layout=compact" alt="GabrielNat1's GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielNat1&theme=react&show_icons=true&hide_border=false&layout=compact" alt="GabrielNat1's GitHub Stats"/>
     </td>
   </tr>
 </table>
-
-
 
 ### 🚀 Skills 🚀
 <div style="display: inline_block">
@@ -54,10 +49,9 @@
 </p>
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=GabrielNat1&theme=ocean-dark&border=03026ECF" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=GabrielNat1&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Streak" />
   </a>
 </p>
-
 <br>
 
 ---
@@ -66,16 +60,10 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=GabrielNat1&theme=darkhub" alt="GitHub Trophy" />
 </p>
-
 <br>
 <br>
-
-
 
 ![snake gif](https://github.com/GabrielNat1/GabrielNat1/blob/output/github-snake-dark.svg)
-
-
-
 
 <br>
 <br>
