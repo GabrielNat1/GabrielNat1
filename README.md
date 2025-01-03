@@ -49,7 +49,7 @@
 </p>
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=GabrielNat1&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielNat1&theme=react&hide_border=false" alt="GitHub Streak" />
   </a>
 </p>
 <br>
