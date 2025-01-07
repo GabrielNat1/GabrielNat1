@@ -24,10 +24,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=GabrielNat1&theme=merko&show_icons=true&hide_border=false&count_private=true" alt="GabrielNat1's GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=GabrielNat1&theme=react&show_icons=true&hide_border=false&count_private=true" alt="GabrielNat1's GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielNat1&theme=merko&show_icons=true&hide_border=false&layout=compact" alt="GabrielNat1's GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielNat1&theme=react&show_icons=true&hide_border=false&layout=compact" alt="GabrielNat1's GitHub Stats"/>
     </td>
   </tr>
 </table>
