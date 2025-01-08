@@ -91,7 +91,7 @@
 
 <h3 align="center">🏆 Trophys 🏆</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GabrielNat1&theme=darkhub" alt="GitHub Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=GabrielNat1&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophy" />
 </p>
 <br><br>
 
