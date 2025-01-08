@@ -89,7 +89,7 @@
 
 <img src="https://github.com/user-attachments/assets/6c5640f0-e1b8-4c80-85dc-ff96c2db05ec"><br>
 
-<h3 align="center">🏆 Trophy 🏆</h3>
+<h3 align="center">🏆 Trophys 🏆</h3>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=GabrielNat1&theme=darkhub" alt="GitHub Trophy" />
 </p>
