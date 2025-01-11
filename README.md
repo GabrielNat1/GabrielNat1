@@ -24,10 +24,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=GabrielNat1&theme=react&show_icons=true&hide_border=false&count_private=true" alt="GabrielNat1's GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=GabrielNat1&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="GabrielNat1's GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielNat1&theme=react&show_icons=true&hide_border=false&layout=compact" alt="GabrielNat1's GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielNat1&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="GabrielNat1's GitHub Stats"/>
     </td>
   </tr>
 </table>
@@ -35,7 +35,6 @@
 ### 🚀 TechStack 🚀
 <table style="width: 100%; border-collapse: collapse; border: none; table-layout: fixed;">
   <tr>
-    <!-- Coluna dos badges -->
     <td style="border: none; vertical-align: middle; width: 70%; padding: 0;">
       <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
       <img alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
