@@ -24,10 +24,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=GabrielNat1&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="GabrielNat1's GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=GabrielNat1&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="GabrielNat1's GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielNat1&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="GabrielNat1's GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielNat1&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="GabrielNat1's GitHub Stats"/>
     </td>
   </tr>
 </table>
@@ -69,19 +69,19 @@
 
 <h3 align="center">📊 GitHub Profile Status 📊</h3>
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielNat1&theme=react" alt="Profile Details" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielNat1&theme=radical" alt="Profile Details" />
 </p>
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabrielNat1&theme=react&exclude=" alt="Repos Per Language" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GabrielNat1&theme=react&exclude=" alt="Most Commit Language" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabrielNat1&theme=radical&exclude=" alt="Repos Per Language" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GabrielNat1&theme=radical&exclude=" alt="Most Commit Language" />
 </p>
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabrielNat1&theme=react" alt="Stats" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GabrielNat1&theme=react&utcOffset=3" alt="Productive Time" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabrielNat1&theme=radical" alt="Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GabrielNat1&theme=radical&utcOffset=3" alt="Productive Time" />
 </p>
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielNat1&theme=react&hide_border=false" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielNat1&theme=radical&hide_border=false" alt="GitHub Streak" />
   </a>
 </p>
 <br>
@@ -96,7 +96,5 @@
 
 ![snake gif](https://github.com/GabrielNat1/GabrielNat1/blob/output/github-snake-dark.svg)
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/2efb9049-b4c6-4fbb-ac08-8b55451e5c5a" alt="profile fire" width="200" />
-</p>
+
 <img src="https://github.com/user-attachments/assets/6c5640f0-e1b8-4c80-85dc-ff96c2db05ec"><br>
