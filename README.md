@@ -32,7 +32,7 @@
     </td>
 </div>
 
-### 🚀 TechStack 🚀
+### 🚀 Tech Stack 🚀
 <table style="width: 100%; border-collapse: collapse; table-layout: fixed;">
     <td style="border: none; vertical-align: middle; width: 70%; padding: 0;">
       <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
