@@ -16,7 +16,7 @@
 - 💾 My focus is on **databases** and I am excited to learn more
 - 🛠️ My goal is to specialize in **database management and optimization**, creating efficient structures to support robust and scalable applications 
 - 📊 I believe understanding **data storage and manipulation** is essential for the success of any technology project
-- 🌟 I enjoy exploring various programming languages and expanding my knowledge in different areas
+- 🌟 I enjoy exploring various programming languages and expanding my knowledge in different areas!
 <br>
 
 <img src="https://github.com/user-attachments/assets/6c5640f0-e1b8-4c80-85dc-ff96c2db05ec">
