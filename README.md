@@ -12,7 +12,7 @@
 <br>
 
 # 💫 About Me:
-- 🎓 I am starting my programming studies
+- 🎓 I am starting my programming **studies**
 - 💾 My focus is on **databases** and I am excited to learn more
 - 🛠️ My goal is to specialize in **database management and optimization**, creating efficient structures to support robust and scalable applications 
 - 📊 I believe understanding **data storage and manipulation** is essential for the success of any technology project
