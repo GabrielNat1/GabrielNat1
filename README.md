@@ -1,12 +1,12 @@
-<img src="https://github.com/user-attachments/assets/6c5640f0-e1b8-4c80-85dc-ff96c2db05ec">
-<br><br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=180&section=header&fontSize=30&fontColor=FFFAFA&animation&fontAlignY=35"/>
+
 
 <div align="center"> 
 <a align="center", href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&width=435&lines=Welcome+to+my+GitHub!" alt="Typing SVG" /></a>
 </div>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/806e1e92-f600-453b-973f-f41773cf694c" alt="Banner Profile" />
+  <img width=80% src="https://github.com/user-attachments/assets/c3c0cb1b-e8f5-4487-bdad-8efc07943875" alt="Banner Profile" />
 </p>
 
 <br>
@@ -89,11 +89,35 @@
 
 <h3 align="center">🏆 Trophys 🏆</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GabrielNat1&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=GabrielNat1&theme=radical&no-frame=false&no-bg=true&margin-w=3" alt="GitHub Trophy" />
 </p>
-<br><br>
+
+<img src="https://github.com/user-attachments/assets/6c5640f0-e1b8-4c80-85dc-ff96c2db05ec"><br>
+<h3 align="center">📌 My Projects </h3>
+<table align="center">
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🛡️ RPG Eldoria</td>
+      <td><a href="https://github.com/GabrielNat1/RPG-Eldoria">🔗 Access the repository</a></td>
+    </tr>
+    <tr>
+      <td>🌐 API Rest - TypeScript</td>
+      <td><a href="https://github.com/GabrielNat1/Api-Rest-Typescript">🔗 Access the repository</a></td>
+    </tr>
+    <tr>
+      <td>🤖 Mine Automation Bot</td>
+      <td><a href="https://github.com/GabrielNat1/Mine-Automation-Bot-V2">🔗 Access the repository</a></td>
+    </tr>
+  </tbody>
+</table>
+<br><br><br>
 
 ![snake gif](https://github.com/GabrielNat1/GabrielNat1/blob/output/github-snake-dark.svg)
 
-
-<img src="https://github.com/user-attachments/assets/6c5640f0-e1b8-4c80-85dc-ff96c2db05ec"><br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=footer"/>
