@@ -93,30 +93,54 @@
 </p>
 
 <img src="https://github.com/user-attachments/assets/6c5640f0-e1b8-4c80-85dc-ff96c2db05ec"><br>
-<h3 align="center">📌 My Projects </h3>
+<h3 align="center">📌 My Projects Contributions 📌</h3>
+
 <table align="center">
   <thead>
     <tr>
-      <th>Project</th>
-      <th>Link</th>
+      <th>📌 Project</th>
+      <th>🚀 Technologies</th>
+      <th>🔗 Link</th>
+      <th>ℹ️ About</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>🛡️ RPG Eldoria</td>
-      <td><a href="https://github.com/GabrielNat1/RPG-Eldoria">🔗 Access the repository</a></td>
+      <td><b>🎆 Infinite Voices 🎆</b></td>
+      <td>⚡ TypeScript, Electron</td>
+      <td><a href="https://github.com/LucasVince/Infinite-Voices">🔗 Access</a></td>
+      <td>🗣️ Interactive forum with dynamic interface and user interaction features.</td>
     </tr>
     <tr>
-      <td>🌐 API Rest - TypeScript</td>
-      <td><a href="https://github.com/GabrielNat1/Api-Rest-Typescript">🔗 Access the repository</a></td>
+      <td><b>🏙️ City and User Registration API 🏙️</b></td>
+      <td>🛠️ Node.js, TypeScript, Yarn, SQLite3, Jest</td>
+      <td><a href="https://github.com/GabrielNat1/Api-Rest-TypeScript">🔗 Access</a></td>
+      <td>🗂️ REST API registration system with JSON & SQLite3 database integration.</td>
     </tr>
     <tr>
-      <td>🤖 Mine Automation Bot</td>
-      <td><a href="https://github.com/GabrielNat1/Mine-Automation-Bot-V2">🔗 Access the repository</a></td>
+      <td><b>🛡️ RPG Eldoria 🏰</b></td>
+      <td>🐍 Python, Pygame, Random, OS</td>
+      <td><a href="https://github.com/GabrielNat1/RPG-Eldoria">🔗 Access</a></td>
+      <td>⚔️ A medieval RPG where players battle mobs and navigate a pixel-art fantasy world.</td>
+    </tr>
+    <tr>
+      <td><b>🚀 API Golang 🌍</b></td>
+      <td>🐹 Go, Gin-Gonic Framework & Docker</td>
+      <td><a href="https://github.com/GabrielNat1/api-golang">🔗 Access</a></td>
+      <td>📦 API for product management developed in Go using the Gin framework.</td>
+    </tr>
+    <tr>
+      <td><b>🤖 Mine-Automation-Bot-V2 ⛏️</b></td>
+      <td>💻 JavaScript, MineFlayer</td>
+      <td><a href="https://github.com/GabrielNat1/Mine-Automation-Bot-V2">🔗 Access</a></td>
+      <td>🎮 A bot designed to manage Minecraft servers, ideal for evaluating server performance.</td>
     </tr>
   </tbody>
 </table>
+
+
 <br><br><br>
+
 
 ![snake gif](https://github.com/GabrielNat1/GabrielNat1/blob/output/github-snake-dark.svg)
 
