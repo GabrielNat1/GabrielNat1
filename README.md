@@ -33,7 +33,8 @@
 </div>
 
 ### 🚀 Tech Stack 🚀
-<table style="width: 100%; border-collapse: collapse; table-layout: fixed;">
+<table style="width: 100%; border-collapse: collapse; table-layout: fixed; border: none;">
+  <tr>
     <td style="border: none; vertical-align: middle; width: 70%; padding: 0;">
       <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
       <img alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -55,7 +56,7 @@
       <img alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
     </td>
     <td style="border: none; text-align: center; vertical-align: middle; width: 30%; padding: 0;">
-      <img src="https://github.com/user-attachments/assets/3df63163-f353-4d37-9490-1abfeebb0c21" alt="profile fire" width="200" />
+      <img src="https://github.com/user-attachments/assets/b954aaf2-63a2-4a58-a16c-74f63bdc2aac" alt="profile fire" width="200" />
     </td>
   </tr>
 </table>
