@@ -89,9 +89,9 @@
 <img src="https://github.com/user-attachments/assets/6c5640f0-e1b8-4c80-85dc-ff96c2db05ec"><br>
 
 <h3 align="center">🏆 Trophys 🏆</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GabrielNat1&theme=radical&no-frame=false&no-bg=true&margin-w=3" alt="GitHub Trophy" />
-</p>
+<div align=center>
+  <img src="https://github-profile-trophy.vercel.app/?username=GabrielNat1&no-bg=true&no-frame=true&row=2&column=3"/>
+</div>
 
 <img src="https://github.com/user-attachments/assets/6c5640f0-e1b8-4c80-85dc-ff96c2db05ec"><br>
 <h3 align="center">📌 My Projects Contributions 📌</h3>
