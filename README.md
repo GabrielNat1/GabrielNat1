@@ -19,7 +19,7 @@
 - 🌟 I enjoy exploring various programming languages and expanding my knowledge in different areas!!
 <br>
 
-<img src="https://github.com/user-attachments/assets/6c5640f0-e1b8-4c80-85dc-ff96c2db05ec">
+<img src="assets/boardprofile.gif">
 
   ### 🎆 GitHub Status 🎆
   
@@ -57,7 +57,7 @@
 </div>
 <br>
 
-<img src="https://github.com/user-attachments/assets/6c5640f0-e1b8-4c80-85dc-ff96c2db05ec"><br>
+<img src="assets/boardprofile.gif"><br>
 
 
 <h3 align="center">🏆 Trophys 🏆</h3>
