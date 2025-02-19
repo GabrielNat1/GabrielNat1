@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-  <img width=80% src="https://github.com/user-attachments/assets/c3c0cb1b-e8f5-4487-bdad-8efc07943875" alt="Banner Profile" />
+  <img width=80% src="assets/banner_profile.gif" alt="Banner Profile" />
 </p>
 
 <br>
