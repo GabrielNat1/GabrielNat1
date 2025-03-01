@@ -26,14 +26,7 @@
 ## 📈 GitHub Stats  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GabrielNat1&theme=radical&show_icons=true&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielNat1&theme=radical&show_icons=true&hide_border=true&layout=compact" height="160"/>
-</div>
-
----
-
-## 📌 Projects  
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=GabrielNat1&limit=5&theme=radical&combine_all_yearly_contributions=true">
+  <img src="https://streak-stats.demolab.com?user=GabrielNat1&theme=radical&hide_border=true" height="160"/>
 </div>
 
 ---
