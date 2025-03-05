@@ -17,6 +17,4 @@
   <img src="https://streak-stats.demolab.com?user=GabrielNat1&theme=radical&hide_border=true" height="160"/>
 </div>
 
----
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=footer"/>
+###
