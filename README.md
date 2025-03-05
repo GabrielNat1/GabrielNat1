@@ -5,9 +5,9 @@
 </div>
 
 ## 💡 About Me  
-- 🎓 Passionate about learning **programming**  
-- 💾 Focused on **databases & scalable applications**  
-- 🚀 Exploring multiple **programming languages**  
+- 🎓 Passionate about learning **programming**.
+- 💾 Focused on **databases & scalable applications**.
+- 🚀 Exploring multiple **programming languages**. 
 
 ---
 
