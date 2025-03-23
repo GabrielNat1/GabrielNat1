@@ -4,5 +4,9 @@
 - 🚀 Exploring multiple **programming languages**. 
 
 ## 📈 GitHub Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielNat1&theme=radical&show_icons=true&hide_border=true&count_private=true" height="160"/>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrielNat1&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="160"/>
+</div>
+
+## 🎵 Spotify Recently
+![Spotify Recently](https://spotify-recently-played-readme.vercel.app/api?user=coxtv2lknwxnnnmn40qpyxf5r)
