@@ -12,10 +12,10 @@
 ## 📈 GitHub Stats   
 <div>
    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=GabrielNat1&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="GabrielNat1's GitHub Stats" width="400" />
+      <img src="https://github-readme-stats.vercel.app/api?username=GabrielNat1&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" alt="GabrielNat1's GitHub Stats" width="400" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielNat1&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="GabrielNat1's GitHub Stats" width="270"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielNat1&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact" alt="GabrielNat1's GitHub Stats" width="270"/>
     </td>
 </div>
 
