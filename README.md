@@ -1,14 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
 
-<div align="center"> 
-<a align="center", href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&width=435&lines=Welcome+to+my+GitHub!" alt="Typing SVG" /></a>
-</div>
-
-## 💡 About Me  
-- 🎓 Passionate about learning **programming**.
-- 💾 Focused on **databases & scalable applications**.
-- 🚀 Exploring multiple **programming languages**. 
-
 ## 📈 GitHub Stats   
 <div>
    <td>
