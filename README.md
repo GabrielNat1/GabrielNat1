@@ -36,6 +36,7 @@
         <b>More Info</b>
       </samp>
     </summary>
+    <br>
 <div align="center">
 
   | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabrielNat1&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabrielNat1&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GabrielNat1&theme=tokyonight&utcOffset=8) |
