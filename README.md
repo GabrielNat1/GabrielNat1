@@ -55,6 +55,7 @@
   <img width="45" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Eclipse-Dark.svg" />
   <img width="45" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Idea-Dark.svg" />
   <img width="45" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg">
+  <img width="45" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Redis-Dark.svg" />
   <img width="45" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" />
   <img width="45" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" />
   
