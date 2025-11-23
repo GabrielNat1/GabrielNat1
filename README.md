@@ -15,13 +15,13 @@
 <br>
 
 <div align="center">
-  <img src="https://furrycdn.org/img/2022/12/10/210876/large.gif" width="200">
+  <img src="https://orig00.deviantart.net/8d85/f/2013/206/2/b/pixel_dragonite_by_fawly-d6f5aos.gif" width="200">
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Latias-FF69B4?style=for-the-badge&logo=pokemon&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dragonite-FF69B4?style=for-the-badge&logo=pokemon&logoColor=white" />
 </div>
 
 <div align="center" width="100%">
