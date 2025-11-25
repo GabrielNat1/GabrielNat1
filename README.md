@@ -48,17 +48,19 @@
 </div>
 
 <div align="center" style="display: inline_block"><br>
-  <img width="45" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" />
-  <img width="45" src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" />
-  <img width="45" src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg" />
-  <img width="45" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Spring-Dark.svg" />
-  <img width="45" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Eclipse-Dark.svg" />
-  <img width="45" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Idea-Dark.svg" />
-  <img width="45" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg">
-  <img width="45" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Redis-Dark.svg" />
-  <img width="45" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" />
-  <img width="45" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" />
-  
+
+  <img width="45" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img width="45" style="margin: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+  <img width="45" style="margin: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img width="45" style="margin: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  <img width="45" style="margin: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img width="45" style="margin: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" />
+  <img width="45" style="margin: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+  <img width="45" style="margin: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img width="45" style="margin: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
+  <img width="45" style="margin: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img width="45" style="margin: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
 </div>
 
 <br>
