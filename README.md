@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=8A2BE2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=7AA2F7"/>
 
 <div align="center">
   <samp>
@@ -9,7 +9,7 @@
      <br>
 </div>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=GabrielNat1&color=blueviolet&style=flat&label=Visits"/>
+  <img src="https://komarev.com/ghpvc/?username=GabrielNat1&color=000000&style=flat&label=Visits"/>
 </div>
       
 <br>
@@ -21,7 +21,7 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Dragonite-FF69B4?style=for-the-badge&logo=pokemon&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dragonite-1A1B26?style=for-the-badge&logo=pokemon&logoColor=7AA2F7" />
 </div>
 
 <div align="center" width="100%">
@@ -86,5 +86,6 @@
 <br>
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7AA2F7&height=100&section=footer"/>
+
 
