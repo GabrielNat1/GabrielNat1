@@ -25,7 +25,8 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ae2323&width=900&size=21&center=true&lines=I+am+from+Brazil;I%27m+a+Backend+Developer+student;I+love+technology;Be+welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ae2323&width=900&size=21&center=true&lines=I+am+from+Brazil;I%27m+a+Computer+Science+student;I+love+technology;Be+welcome!" alt="Typing SVG"/>
+
 </div>
 
 
@@ -60,9 +61,12 @@
   <img width="45" style="margin: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
   <img width="45" style="margin: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img width="45" style="margin: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img width="45" style="margin: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img width="45" style="margin: 5px" src="https://cdn.simpleicons.org/insomnia?viewbox=auto" />
+  <img width="45" style="margin: 5px" src="https://cdn.simpleicons.org/postman?viewbox=auto" />
+  <img width="45" style="margin: 5px" src="https://raw.githubusercontent.com/NationalSecurityAgency/ghidra/master/GhidraDocs/GhidraClass/Beginner/Images/GhidraLogo64.png" />
 
 </div>
-
 <br>
 
 ##
