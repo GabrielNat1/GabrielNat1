@@ -43,7 +43,7 @@
   | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabrielNat1&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabrielNat1&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GabrielNat1&theme=tokyonight&utcOffset=8) |
 | :-: | :-: | :-: |
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielNat1&theme=tokyonight) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GabrielNat1&theme=tokyonight)](https://git.io/streak-stats) |
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielNat1&theme=tokyonight) | ![](./dist/persona.svg) |
 | :-: | :-: |
   
 </div>
