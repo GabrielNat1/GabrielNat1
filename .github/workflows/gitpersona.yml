@@ -1,0 +1,30 @@
+name: Update GitPersona
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:  
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Persona Card
+        uses: devitor0/GitPersona@main
+        with:
+          github_token: ${{ secrets.PAT_TOKEN }} 
+          username: GabrielNat1
+          output_dir: dist
+
+      - name: Commit & Push persona.svg
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -f dist/persona.svg
+          git commit -m "chore: update persona card" || exit 0
+          git push
