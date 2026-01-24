@@ -80,17 +80,9 @@
 </div>
 
 <div align="center">
-  <table border="1" cellpadding="0" cellspacing="0">
-    <tr>
-      <td>
-        <img
-          src="https://github.com/user-attachments/assets/22ba7195-66d2-42a0-a6e0-46167d52f1cb"
-          width="800"
-        />
-      </td>
-    </tr>
-  </table>
+  <samp>╔════ Thank you for visiting my github! ════╗</samp>
 </div>
+
 
 ##
 
