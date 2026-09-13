@@ -21,7 +21,7 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Dragonite-1A1B26?style=for-the-badge&logo=pokemon&logoColor=7AA2F7" />
+  <img src="https://img.shields.io/badge/Gengar-1A1B26?style=for-the-badge&logo=pokemon&logoColor=7AA2F7" />
 </div>
 
 <div align="center" width="100%">
