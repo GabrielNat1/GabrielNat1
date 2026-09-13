@@ -15,7 +15,7 @@
 <br>
 
 <div align="center">
-  <img src="https://orig00.deviantart.net/8d85/f/2013/206/2/b/pixel_dragonite_by_fawly-d6f5aos.gif" width="200">
+  <img src="https://i.pinimg.com/originals/66/36/d3/6636d37ba22a391c6353b1436a81f656.gif" width="200">
 </div>
 
 <br>
@@ -71,20 +71,6 @@
 
 ##
 
-<br>
-
-<div align="center">
-  
-  [![Discord](https://img.shields.io/badge/Discord-Hibridslayer-7289DA?style=for-the-badge&logo=discord&logoColor=fff)]()
-  
-</div>
-
-<div align="center">
-  <samp>╔════ Thank you for visiting my github! ════╗</samp>
-</div>
-
-
-##
 
 </details>
 
